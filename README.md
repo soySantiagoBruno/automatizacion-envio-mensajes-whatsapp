@@ -68,9 +68,3 @@ python script.py
 - Los números se formatean automáticamente con el prefijo `549` (Argentina).
 - No se guarda historial de envíos, ni se controla si el número tiene WhatsApp activo.
 - Si un número no es válido o no tiene cuenta de WhatsApp, el script lo informa en consola.
-
----
-
-## 🧠 Autor
-
-Desarrollado con fines educativos por [tu nombre o alias acá].
